@@ -1,0 +1,5 @@
+name: learning-istio
+runtime: nodejs
+description: Learning Istio
+template:
+  description: A minimal Kubernetes TypeScript Pulumi program
